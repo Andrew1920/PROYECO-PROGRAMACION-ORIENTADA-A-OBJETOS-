@@ -1,5 +1,5 @@
 
-# 🛒 Sistema de Gestión de E-commerce en Go
+# 🛒 Sistema de Gestión de E-commerce en Go primer avance
 
 Este proyecto implementa un sistema de gestión de e-commerce básico desarrollado en el lenguaje de programación Go. El objetivo es permitir a los usuarios realizar operaciones como visualizar productos, gestionar usuarios, procesar pedidos y manejar la lógica de una tienda en línea.
 
