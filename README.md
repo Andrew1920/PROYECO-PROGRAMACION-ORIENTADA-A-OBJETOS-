@@ -35,13 +35,7 @@ ecomerce-go/
 
 Este sistema busca simular el funcionamiento básico de un backend para un sitio e-commerce, incluyendo la gestión de productos, usuarios y pedidos. Está diseñado para servir como base extensible para sistemas reales.
 
-## 📌 Funcionalidades Futuras
 
-- Conexión a base de datos PostgreSQL o MongoDB.
-- Autenticación de usuarios con JWT.
-- Interfaz gráfica en HTML/CSS/JS.
-- Integración con pasarelas de pago (Stripe/PayPal).
-- Administración de inventario y promociones.
 
 ## ✅ Ejecución del Proyecto
 
@@ -54,8 +48,6 @@ go mod tidy
 go run main.go
 ```
 
-## 🧠 Consideraciones Técnicas
 
-Este proyecto aplica principios de programación funcional donde es posible dentro de Go. Se prioriza la inmutabilidad, modularidad y claridad en el diseño del código.
 
 ---
