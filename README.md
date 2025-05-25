@@ -43,7 +43,7 @@ Este sistema busca simular el funcionamiento básico de un backend para un sitio
 - Integración con pasarelas de pago (Stripe/PayPal).
 - Administración de inventario y promociones.
 
-## ✅ Ejecución del Proyecto
+## ✅ Ejecución del Proyecto primer avance
 
 Para ejecutar el proyecto:
 
