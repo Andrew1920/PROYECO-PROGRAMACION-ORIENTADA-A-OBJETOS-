@@ -45,12 +45,12 @@ Este sistema busca simular el funcionamiento básico de un backend para un sitio
 
 ## ✅ Ejecución del Proyecto
 
-Para ejecutar el proyecto, asegúrate de tener Go instalado y luego:
+Para ejecutar el proyecto:
 
 ```bash
-git clone https://github.com/tu-usuario/ecomerce-go.git
-cd ecomerce-go
+cd  \ecomerce-go
+go mod init ecommerce
+go get github.com/gorilla/mux
 go mod tidy
-go run main.go
 ```
-
+http://localhost:8080/hello
