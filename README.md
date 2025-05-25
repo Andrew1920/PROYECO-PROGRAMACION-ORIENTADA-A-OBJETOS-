@@ -59,5 +59,3 @@ go run main.go
 Este proyecto aplica principios de programación funcional donde es posible dentro de Go. Se prioriza la inmutabilidad, modularidad y claridad en el diseño del código.
 
 ---
-
-Desarrollado por: [Tu Nombre]
