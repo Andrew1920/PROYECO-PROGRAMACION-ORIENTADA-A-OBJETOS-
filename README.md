@@ -53,4 +53,4 @@ go mod init ecommerce
 go get github.com/gorilla/mux
 go mod tidy
 ```
-http://localhost:8080/hello
+http://localhost:8080/
